@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Producto</title>
+	<title>Prod</title>
 	<link rel="stylesheet" type="text/css" href="../css/estilos.css">
 </head>
 <body>
 	<header>HEADER</header>
 	<nav>
 		<ul>
-			<li><a class="active" href="#home">Inicio</a></li>
+			<li><a class="active" href="#home">In</a></li>
 			<li><a href="mision.php" target="_blank">Mision</a></li>
 			<li><a href="vision.php" target="_blank">Vision</a></li>
 			<li><a href="valores.php"  target="_blank">Valores</a></li>
