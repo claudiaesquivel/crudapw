@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1>Mision</h1>
-	<p>Ofrecer al cliente el mejor servicio</p>
+	<p>Ofrecer aente el mejor servicio</p>
 </body>
 </html>
