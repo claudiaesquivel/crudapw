@@ -6,11 +6,11 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>Editar Usuario</title>
+	<title>Editar Uio</title>
 </head>
 <body>
 	<header>
-		<h1>Usuarios</h1>
+		<h1>Usus</h1>
 		<h2>Editar catologo de usuarios</h2>
 	</header>
 	<form action="../../controladores/usuariosController.php" method="post">

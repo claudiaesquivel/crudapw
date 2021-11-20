@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mision</title>
+	<title>Min</title>
 </head>
 <body>
 <h1>Mision</h1>
