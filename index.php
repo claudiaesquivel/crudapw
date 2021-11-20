@@ -16,7 +16,7 @@
 			<li><a href="admin.php">Admin</a></li>
 		</ul>
 	</nav>
-	<main>MA</main>
-	<footer>FOR</footer>
+	<main>MAIN</main>
+	<footer>FOOTER</footer>
 </body>
 </html>
