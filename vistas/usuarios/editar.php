@@ -10,7 +10,7 @@
 </head>
 <body>
 	<header>
-		<h1>Usuarios</h1>
+		<h1>Usus</h1>
 		<h2>Editar catologo de usuarios</h2>
 	</header>
 	<form action="../../controladores/usuariosController.php" method="post">
