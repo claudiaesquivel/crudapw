@@ -13,7 +13,7 @@
 			<li><a href="mision.php" target="_blank">Mision</a></li>
 			<li><a href="vision.php" target="_blank">Vision</a></li>
 			<li><a href="valores.php"  target="_blank">Valores</a></li>
-			<li><a href="admin.php">Admin</a></li>
+			<li><a href="admin.php">Administrador</a></li>
 		</ul>
 	</nav>
 	<main>MAIN</main>

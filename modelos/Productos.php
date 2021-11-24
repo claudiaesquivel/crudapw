@@ -6,7 +6,7 @@ class Productos
 	//Atributos=Variables
 	public $idproducto;
 	public $nombre;
-	public $descripcion;	
+	public $des;	
 	public $precioVenta;
 	public $existencias;
 	private $conexion;
